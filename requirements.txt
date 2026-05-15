@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torch-geometric
+traci
+sumolib
+networkx
+transitions
+requests
+transformers
